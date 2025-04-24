@@ -1,4 +1,4 @@
-🐍 Python Projects
+🐍 Python Projects \n
 Welcome to Python Projects — a growing collection of Python scripts and mini-projects built for fun, learning, and experimentation.
 
 Whether you're a beginner looking for inspiration or an experienced coder browsing for ideas, this repo showcases a variety of Python-based projects covering different concepts, from simple automation to data science, games, and more.
