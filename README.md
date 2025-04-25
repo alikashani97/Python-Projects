@@ -1,11 +1,16 @@
 # 🐍 Python Projects
 Welcome to Python Projects — a growing collection of Python scripts and mini-projects built for fun, learning, and experimentation.  
   
-
 Whether you're a beginner looking for inspiration or an experienced coder browsing for ideas, this repo showcases a variety of Python-based projects covering different concepts, from simple automation to data science, games, and more.
 
 ## 📁 What's Inside  
-Each script or project is stored in its own folder or Python file with clear naming, making it easy to explore and run. Examples include:
+
+Most of the projects are based on the **100 Days of Code: The Complete Python Pro Bootcamp Udemy course by Dr. Angela Yu**, with some custom tweaks and personal additions.  
+
+Each script or project is stored in its own folder or Python file with clear naming, making it easy to explore and run. 
+
+
+Examples include:
 
 🧮 Small automation tools  
 
@@ -15,7 +20,7 @@ Each script or project is stored in its own folder or Python file with clear nam
 
 🤖 Basic AI & ML experiments  
 
-🚀 Getting Started  
+## 🚀 Getting Started  
 
 
   
